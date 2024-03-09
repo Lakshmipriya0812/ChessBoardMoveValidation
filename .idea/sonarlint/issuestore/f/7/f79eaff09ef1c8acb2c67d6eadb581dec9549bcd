@@ -1,0 +1,9 @@
+
+[
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(¼ÿøéÿÿÿÿÿ8…´€â1
+U
+java:S1172…"2Remove this unused method parameter "blackPieces".(š¼‰õúÿÿÿÿ8Ÿ´€â1
+_
+java:S1126Ü"AReplace this if-then-else statement by a single return statement.(ÊØ±¹8¥´€â1
+j
+java:S1871ù"MThis branch's code block is the same as the block for the branch on line 246.(×ãá[8¦´€â1
