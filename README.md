@@ -1,5 +1,4 @@
 "# ChessBoardMoveValidation" 
-Lakshmipriya Rajesh Kanna SE-576 Software Reliability and Testing
 ReadMe:
 How to run the Chessboard:
 All java file are written inside the Final Chess Board 2\Final Chess Board 2\src\main\java
@@ -23,9 +22,5 @@ Example Inputs:
 Example Output
  Legal Moves for Nb6: c4, d5, a4, d7, a8
 Once the output is displayed, the program terminates.
-The program has not covered the draw match.
-Lakshmipriya Rajesh Kanna SE-576 Software Reliability and Testing
-Lakshmipriya Rajesh Kanna SE-576 Software Reliability and Testing
-Lakshmipriya Rajesh Kanna SE-576 Software Reliability and Testing
 Run Test cases:
 All the test cases are written inside the Final Chess Board 2\Final Chess Board 2\src\test\java
